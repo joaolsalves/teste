@@ -1,0 +1,118 @@
+npm init
+
+npm install next@13.1.6
+
+npm install react@18.2.0
+
+npm install react-dom@18.2.0
+
+Criar a entrada abaixo no arquivo package.json
+
+ "scripts": {
+    "dev":"next dev"
+  },
+  
+Para rodar o projeto: 
+  
+npm run dev
+
+GIT, GITHUB, DEPLOY, DNS
+
+GIT
+
+Antes do GIT o versionamento era centralizado
+
+Com o Git é distribuído
+
+Vamos iniciar o Git
+No diretório que se deseja ativar o Git
+
+git init
+
+git status
+
+Criar o arquivo .gitignore e adicioanr os aqruivos a serem ignorados
+
+.next
+
+Adicionar os arquivos para rastrear
+
+git add .gitignore
+
+Para commitar
+
+git commit
+
+git log
+
+
+git log --stat
+
+DIFF
+
+git diff
+
+Modo off-line e modo on-line
+
+git push
+
+git commit -m 'mensagem'
+
+push and pull
+upload and downlod pull
+git push and git pull
+
+git push --set-upstream clone-labnews master
+
+git brach
+
+package.json
+	Metadados
+	Scripts
+	Dependências
+
+package-lock.json
+	Dependências
+		Dependências
+
+CI
+
+DNS
+Configurar um domínio .com.br
+Banco de dados local e remoto usando docker
+Infraestrutura como código com Terraform
+
+Migrations
+Homologação e produção com variáveis de ambiente
+Continuous Integrator
+Testes automatizados
+
+Endpoints da API em REST
+
+Sistema de Autenticação e Autorização
+
+Gerenciamento de erro e Exceções
+
+Validação de entrada e saída de dados
+
+Sistema Financeiro TabCoins e TabCash
+
+Como se proteger de Ataques de Negação Dos e DDos
+
+
+Modelos ao construir software
+	Orgânicos e Impressora 3D
+	
+
+Milestones
+
+
+0 - Em construção
+1 - Fundação
+2 - Auth, Usuários e permissões
+3
+
+Teste 123
+
+
+
